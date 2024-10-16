@@ -1,0 +1,52 @@
+body{
+    background-image:url(images/billboard.jpg);
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+    height: 100px;
+    width:100%;
+}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+    background-color: #E0DEDB;
+    /* opacity: 0.8; */
+    
+}
+.Navbar{
+    padding-top: 25px;
+}
+.n1{
+    text-decoration: none;
+    padding-right: 10px;
+    font-size: 20px;
+    color: black;
+}
+
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0px;
+    padding-right: 100px;
+    padding-left: 100px;
+    background-color: #E0DEDB;
+    /* opacity: 0.8; */
+    margin-top: 725px;
+}
+.box{
+   text-decoration: none;
+   padding-top: 10px;
+   background-color: #4BCAFF;
+   opacity: 1000;
+}
+.middle{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.imgss .m1{
+    padding-left: 280px;
+}
+
+   
